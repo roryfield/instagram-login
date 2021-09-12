@@ -1,4 +1,4 @@
 # workspace
-Personal projects &amp; study
 
-This is a simple project to study html and css elements, by recreating the login instagram page.
+A simple project to study html & css elements by recreating the Instagram's login page.
+
